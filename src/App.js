@@ -10,7 +10,7 @@ function App() {
         <p>
           Hi There .. it is me too
         </p>
-        <p> ich heiße Samer </p>
+        <p> ich heiße Samer Odeh </p>
         <p>  
           Edit <code>src/App.js</code> and save to reload.
         </p>
